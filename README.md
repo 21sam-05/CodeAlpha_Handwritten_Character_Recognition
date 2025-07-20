@@ -24,4 +24,21 @@ The **EMNIST (Extended MNIST)** dataset is used for this project. Specifically, 
 * 26 lowercase letters (a-z)
 
 This results in a total of **62 classes**. The dataset is known for its variability in handwriting styles, making it a good benchmark for HCR.
+## Technologies Used
+
+* **Python 3.x**: The core programming language for the project.
+* **TensorFlow**: An open-source machine learning framework.
+* **Keras**: A high-level API for building and training deep learning models, integrated within TensorFlow.
+* **NumPy**: A fundamental package for numerical computing in Python, used for array manipulations.
+* **Matplotlib**: A plotting library used for visualizing training history and sample predictions.
+* **TensorFlow Datasets (TFDS)**: Used for easily loading and managing the EMNIST dataset.
+
+## Contact 📞✉️
+
+Feel free to reach out if you have any questions or feedback!
+
+* SAMRIDHI SAXENA
+* GitHub :  https://github.com/21sam-05
+* LinkedIn: https://www.linkedin.com/in/samridhi-saxena-07231a28a/
+* E-mail : saxenasamridhi1921@gmail.com
 
